@@ -1,1 +1,1 @@
-# praktikum-struktur-data-pertemuan-pertama-Array-
+# praktikum-struktur-data
